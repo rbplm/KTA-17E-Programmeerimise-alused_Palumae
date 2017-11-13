@@ -1,0 +1,6 @@
+c:\users\opilane\documents\visual studio 2017\Projects\Tunnikontroll\Tunnikontroll\obj\Debug\Tunnikontroll.csprojResolveAssemblyReference.cache
+c:\users\opilane\documents\visual studio 2017\Projects\Tunnikontroll\Tunnikontroll\bin\Debug\Tunnikontroll.exe.config
+c:\users\opilane\documents\visual studio 2017\Projects\Tunnikontroll\Tunnikontroll\bin\Debug\Tunnikontroll.exe
+c:\users\opilane\documents\visual studio 2017\Projects\Tunnikontroll\Tunnikontroll\bin\Debug\Tunnikontroll.pdb
+c:\users\opilane\documents\visual studio 2017\Projects\Tunnikontroll\Tunnikontroll\obj\Debug\Tunnikontroll.exe
+c:\users\opilane\documents\visual studio 2017\Projects\Tunnikontroll\Tunnikontroll\obj\Debug\Tunnikontroll.pdb
