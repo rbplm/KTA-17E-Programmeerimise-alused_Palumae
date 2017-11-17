@@ -11,6 +11,11 @@ namespace suvaline_app
         static void Main(string[] args)
         {
             Console.ReadLine();
+
+            Console.WriteLine("h2sti")
+
+           
+                Console.ReadLine();
         }
     }
 }
