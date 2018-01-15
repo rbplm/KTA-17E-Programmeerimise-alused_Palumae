@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2009
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tunnikontroll", "tunnikontroll\tunnikontroll.csproj", "{B634796E-C2E5-4281-9A05-CD3BC7B2B083}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B634796E-C2E5-4281-9A05-CD3BC7B2B083}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B634796E-C2E5-4281-9A05-CD3BC7B2B083}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B634796E-C2E5-4281-9A05-CD3BC7B2B083}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B634796E-C2E5-4281-9A05-CD3BC7B2B083}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {798F7B6F-41B8-4E89-81E4-F02DD9A1D24F}
+	EndGlobalSection
+EndGlobal
